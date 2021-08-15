@@ -1,0 +1,25 @@
+include ':app'
+include ':login'
+include ':debug'
+include ':ugckit'
+include ':beautysettingkit'
+//project(':beauty').projectDir = new File(settingsDir, '../../../../project/android/demo/liteav/beauty')
+include ':trtccallingdemo'
+include ':trtcliveroomdemo'
+include ':trtcvoiceroomdemo'
+include ':trtcmeetingdemo'
+include ':trtcchatsalondemo'
+include ':audioeffectsettingkit'
+
+include ':ugcvideoeditdemo'
+include ':ugcvideorecorddemo'
+include ':ugcvideojoindemo'
+include ':ugcvideouploaddemo'
+
+include ':superplayerkit'
+include ':superplayerdemo'
+
+include ':liveplayerdemo'
+include ':livepusherdemo'
+include ':livelinkmicdemoold'
+include ':livelinkmicdemonew'

@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.liteav.demo.videojoiner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:7:5-30:19
+12        <activity
+12-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:8:9-17:20
+13            android:name="com.tencent.liteav.demo.videojoiner.ui.TCVideoJoinerActivity"
+13-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:9:13-53
+14            android:screenOrientation="portrait" >
+14-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:10:13-49
+15            <intent-filter>
+15-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:11:13-16:29
+16                <action android:name="com.tencent.liteav.demo.videojoiner" />
+16-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:12:17-78
+16-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:12:25-75
+17                <action android:name="android.intent.action.MAIN" />
+17-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:13:17-69
+17-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:13:25-66
+18
+19                <category android:name="android.intent.category.DEFAULT" />
+19-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:15:17-76
+19-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:15:27-73
+20            </intent-filter>
+21        </activity>
+22        <activity
+22-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:18:9-21:52
+23            android:name="com.tencent.liteav.demo.videojoiner.ui.TCVideoJoinerPreviewActivity"
+23-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:19:13-60
+24            android:launchMode="singleTask"
+24-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:20:13-44
+25            android:screenOrientation="portrait" />
+25-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:21:13-49
+26        <activity
+26-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:23:9-25:51
+27            android:name="com.tencent.liteav.demo.videojoiner.ui.TCVideoJoinChooseActivity"
+27-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:24:13-57
+28            android:screenOrientation="portrait" />
+28-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:25:13-49
+29        <activity
+29-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:27:9-29:52
+30            android:name="com.tencent.liteav.demo.videojoiner.ui.TCVideoPreviewActivity"
+30-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:28:13-54
+31            android:screenOrientation="portrait" />
+31-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideojoindemo/src/main/AndroidManifest.xml:29:13-49
+32    </application>
+33
+34</manifest>

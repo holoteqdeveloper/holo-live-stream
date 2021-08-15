@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tencent.liteav.demo.videoediter"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <application>
+        <activity
+            android:name="com.tencent.liteav.demo.videoediter.TCVideoPickerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tencent.liteav.demo.videoediter.TCVideoEditerActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/UGCEditEditerActivityTheme" >
+            <intent-filter>
+                <action android:name="com.tencent.liteav.demo.videoediter" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.liteav.demo.videoediter.TCVideoCutActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/UGCEditEditerActivityTheme" >
+            <intent-filter>
+                <action android:name="com.tencent.liteav.demo.videocut" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.liteav.demo.videoediter.TCVideoEffectActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/UGCEditEditerActivityTheme" />
+        <activity
+            android:name="com.tencent.liteav.demo.videoediter.TCPictureJoinActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/UGCEditPictureTransitionActivityStyle" >
+            <intent-filter>
+                <action android:name="com.tencent.liteav.demo.picturejoin" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.liteav.demo.videoediter.TCEditPreviewActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

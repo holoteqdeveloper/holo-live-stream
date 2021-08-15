@@ -1,0 +1,109 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.liteav.demo.videoediter"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:7:5-56:19
+12        <activity
+12-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:8:9-10:52
+13            android:name="com.tencent.liteav.demo.videoediter.TCVideoPickerActivity"
+13-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:9:13-50
+14            android:screenOrientation="portrait" />
+14-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:10:13-49
+15        <activity
+15-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:12:9-23:20
+16            android:name="com.tencent.liteav.demo.videoediter.TCVideoEditerActivity"
+16-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:13:13-50
+17            android:launchMode="singleTop"
+17-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:14:13-43
+18            android:screenOrientation="portrait"
+18-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:15:13-49
+19            android:theme="@style/UGCEditEditerActivityTheme" >
+19-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:16:13-62
+20            <intent-filter>
+20-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:17:13-22:29
+21                <action android:name="com.tencent.liteav.demo.videoediter" />
+21-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:18:17-78
+21-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:18:25-75
+22                <action android:name="android.intent.action.MAIN" />
+22-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:19:17-69
+22-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:19:25-66
+23
+24                <category android:name="android.intent.category.DEFAULT" />
+24-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:21:17-76
+24-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:21:27-73
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:24:9-35:20
+28            android:name="com.tencent.liteav.demo.videoediter.TCVideoCutActivity"
+28-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:25:13-47
+29            android:launchMode="singleTop"
+29-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:27:13-43
+30            android:screenOrientation="portrait"
+30-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:26:13-49
+31            android:theme="@style/UGCEditEditerActivityTheme" >
+31-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:28:13-62
+32            <intent-filter>
+32-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:29:13-34:29
+33                <action android:name="com.tencent.liteav.demo.videocut" />
+33-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:30:17-75
+33-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:30:25-72
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:19:17-69
+34-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:19:25-66
+35
+36                <category android:name="android.intent.category.DEFAULT" />
+36-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:21:17-76
+36-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:21:27-73
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:36:9-39:65
+40            android:name="com.tencent.liteav.demo.videoediter.TCVideoEffectActivity"
+40-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:37:13-50
+41            android:screenOrientation="portrait"
+41-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:38:13-49
+42            android:theme="@style/UGCEditEditerActivityTheme" />
+42-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:39:13-62
+43        <activity
+43-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:41:9-52:20
+44            android:name="com.tencent.liteav.demo.videoediter.TCPictureJoinActivity"
+44-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:42:13-50
+45            android:launchMode="singleTop"
+45-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:43:13-43
+46            android:screenOrientation="portrait"
+46-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:44:13-49
+47            android:theme="@style/UGCEditPictureTransitionActivityStyle" >
+47-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:45:13-73
+48            <intent-filter>
+48-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:46:13-51:29
+49                <action android:name="com.tencent.liteav.demo.picturejoin" />
+49-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:47:17-78
+49-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:47:25-75
+50                <action android:name="android.intent.action.MAIN" />
+50-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:19:17-69
+50-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:19:25-66
+51
+52                <category android:name="android.intent.category.DEFAULT" />
+52-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:21:17-76
+52-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:21:27-73
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:53:9-55:61
+56            android:name="com.tencent.liteav.demo.videoediter.TCEditPreviewActivity"
+56-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:54:13-50
+57            android:screenOrientation="portrait" />
+57-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideoeditdemo/src/main/AndroidManifest.xml:55:13-49
+58    </application>
+59
+60</manifest>

@@ -1,0 +1,49 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.liteav.demo.videorecord"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:7:5-24:19
+12        <activity
+12-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:8:9-13:67
+13            android:name="com.tencent.liteav.demo.videorecord.TCVideoRecordActivity"
+13-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:9:13-50
+14            android:configChanges="keyboardHidden|orientation|screenSize"
+14-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:10:13-74
+15            android:launchMode="singleTask"
+15-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:11:13-44
+16            android:screenOrientation="portrait"
+16-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:12:13-49
+17            android:theme="@style/UGCRecordRecordActivityTheme" />
+17-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:13:13-64
+18        <activity
+18-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:14:9-16:77
+19            android:name="com.tencent.liteav.demo.videorecord.TCVideoRecordSmartActivity"
+19-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:15:13-55
+20            android:configChanges="keyboardHidden|orientation|screenSize" />
+20-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:16:13-74
+21        <activity
+21-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:17:9-20:52
+22            android:name="com.tencent.liteav.demo.videorecord.TCVideoSettingActivity"
+22-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:18:13-51
+23            android:configChanges="keyboardHidden|orientation|screenSize"
+23-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:19:13-74
+24            android:screenOrientation="portrait" />
+24-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:20:13-49
+25        <activity
+25-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:21:9-23:52
+26            android:name="com.tencent.liteav.demo.videorecord.TCRecordPreviewActivity"
+26-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:22:13-52
+27            android:screenOrientation="portrait" />
+27-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideorecorddemo/src/main/AndroidManifest.xml:23:13-49
+28    </application>
+29
+30</manifest>

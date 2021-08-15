@@ -1,0 +1,28 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.liteav.demo.livelinkmicnew"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+10
+11    <application>
+11-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:4:5-12:19
+12        <activity
+12-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:5:9-8:72
+13            android:name="com.tencent.liteav.demo.livelinkmicnew.V2MainActivity"
+13-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:6:13-43
+14            android:screenOrientation="portrait"
+14-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:7:13-49
+15            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+15-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:8:13-69
+16        <activity android:name="com.tencent.liteav.demo.livelinkmicnew.QRCodeScanActivity" />
+16-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:10:9-55
+16-->/Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:10:19-53
+17    </application>
+18
+19</manifest>

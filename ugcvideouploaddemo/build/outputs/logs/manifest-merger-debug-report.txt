@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:2:5-52
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:9:22-75
+application
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:11:5-37:19
+activity#com.tencent.liteav.demo.videouploader.ui.TCVideoPublishActivity
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:13:9-15:77
+	android:configChanges
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:15:13-74
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:14:13-54
+activity#com.tencent.liteav.demo.videouploader.ui.TCCompressActivity
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:17:9-27:20
+	android:launchMode
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:19:13-43
+	android:configChanges
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:20:13-74
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:18:13-50
+intent-filter#action:name:android.intent.action.MAIN+action:name:com.tencent.liteav.demo.videocompress+category:name:android.intent.category.DEFAULT
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:21:13-26:29
+action#com.tencent.liteav.demo.videocompress
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:22:17-80
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:22:25-77
+action#android.intent.action.MAIN
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:25:27-73
+receiver#com.tencent.liteav.demo.videouploader.model.impl.TVCNetWorkStateReceiver
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:29:9-36:20
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:29:19-69
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:30:13-35:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:32:17-79
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml:32:25-76
+uses-sdk
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/ugcvideouploaddemo/src/main/AndroidManifest.xml

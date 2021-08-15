@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:2:5-53
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:1-13:12
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:4:5-12:19
+activity#com.tencent.liteav.demo.livelinkmicnew.V2MainActivity
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:5:9-8:72
+	android:screenOrientation
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:7:13-49
+	android:theme
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:8:13-69
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:6:13-43
+activity#com.tencent.liteav.demo.livelinkmicnew.QRCodeScanActivity
+ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:10:9-55
+	android:name
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml:10:19-53
+uses-sdk
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		ADDED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml
+		INJECTED from /Users/nabilatieh/Downloads/LiteAVSDK_Enterprise_Android_8.5.10028/Demo/livelinkmicdemonew/src/main/AndroidManifest.xml

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="superplayer_biz_audio_progress_bg">#00b2ff</color>
+    <color name="superplayer_biz_audio_progress_first">#ffffff</color>
+    <color name="superplayer_biz_audio_progress_second">#6b6666</color>
+    <color name="superplayer_black">#000000</color>
+    <color name="superplayer_black_a10_color">#1a000000</color>
+    <color name="superplayer_color_gray">#787878</color>
+    <color name="superplayer_color_tint_red">#FF4C58</color>
+    <color name="superplayer_default_bg">#aa000000</color>
+    <color name="superplayer_default_progress_background_color">#BBBBBB</color>
+    <color name="superplayer_default_progress_color">#FF4081</color>
+    <color name="superplayer_super_vod_vtt_bg">#7E000000</color>
+    <color name="superplayer_transparent">#00000000</color>
+    <color name="superplayer_white">#ffffff</color>
+    <dimen name="superplayer_media_controller_view_height">48dip</dimen>
+    <string name="superplayer_back_live">返回直播</string>
+    <string name="superplayer_brightness">亮度</string>
+    <string name="superplayer_enter_setting_fail">进入设置页面失败,请手动开启悬浮窗权限</string>
+    <string name="superplayer_float_play_fail">悬浮播放失败</string>
+    <string name="superplayer_hardware_Acceleration">硬件加速</string>
+    <string name="superplayer_mirror">镜像</string>
+    <string name="superplayer_multi_speed_playback">多倍速播放</string>
+    <string name="superplayer_original_picture">原画</string>
+    <string name="superplayer_screenshot_fail">截图失败</string>
+    <string name="superplayer_sharpness">清晰度</string>
+    <string name="superplayer_small_video_special_effects_editing">小视频-特效剪辑</string>
+    <string name="superplayer_sound">声音</string>
+    <string name="superplayer_test_video">测试视频</string>
+    <style name="SuperPlayerAppProgressBarStyle">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/superplayer_layer_list_progress_bar</item>
+    </style>
+    <declare-styleable name="SuperPlayerTCPointSeekBar">
+        <attr format="reference" name="psb_thumbBackground"/>
+        <attr format="color" name="psb_backgroundColor"/>
+        <attr format="color" name="psb_progressColor"/>
+        <attr format="integer" name="psb_progress"/>
+        <attr format="integer" name="psb_max"/>
+        <attr format="dimension" name="psb_progressHeight"/>
+    </declare-styleable>
+</resources>
